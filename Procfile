@@ -1,1 +1,1 @@
-worker: python run.py
+worker: py.exe -3.5 run.py
